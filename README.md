@@ -37,4 +37,3 @@ This project helps users manage products efficiently by providing functionality 
 
 
 
-لو عايزة أخليه احترافي أكتر أو بالإنجليزي + عربي مع بعض أو أضيف تصميم جميل للـ README قوليلي 👍
